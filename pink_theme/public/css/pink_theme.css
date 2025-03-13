@@ -1,6 +1,6 @@
 :root {
-    --main-light: #f44336;
-    --main-dark: #3d096b;
+    --main-light: #c90c0f;
+    --main-dark: #990000;
     --main-font-color: #002547;
 }
 .navbar{
@@ -10,8 +10,8 @@
     color: #fff;
 }
 #navbar-search {
-    background-color: #650f53;
-    border: 1px solid #650f53;
+    background-color: #ea9999;
+    border: 1px solid #ea9999;
     color: #ffffff;
     height: 35px;
 }
@@ -36,7 +36,7 @@
     background-color: var(--main-light);
 }
 .btn-primary:not(:disabled):not(.disabled):active{
-    background-color: #f44336;
+    background-color: #c90c0f;
     box-shadow: none;
 }
 input[type=checkbox]:checked {
