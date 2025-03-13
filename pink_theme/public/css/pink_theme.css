@@ -1,5 +1,5 @@
 :root {
-    --main-light: #97197d;
+    --main-light: #f44336;
     --main-dark: #3d096b;
     --main-font-color: #002547;
 }
@@ -36,7 +36,7 @@
     background-color: var(--main-light);
 }
 .btn-primary:not(:disabled):not(.disabled):active{
-    background-color: #650f53;
+    background-color: #f44336;
     box-shadow: none;
 }
 input[type=checkbox]:checked {
